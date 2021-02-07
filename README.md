@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Internal commands
+
+> yarn create create-react-app
+
+Inside that directory, you can run several commands:
+
+  > yarn start
+    Starts the development server.
+
+  > yarn build
+    Bundles the app into static files for production.
+
+  > yarn test
+    Starts the test runner.
+
+  > yarn eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd my-app
+  > yarn start
